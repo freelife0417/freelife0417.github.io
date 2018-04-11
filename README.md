@@ -1,2 +1,2 @@
-## JP LEE :star2:
+## JP LEE :Star2:
 - dev
