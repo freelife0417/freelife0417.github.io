@@ -1,2 +1,1 @@
-## JP LEE 
-- dev
+##Client Game Programmer
